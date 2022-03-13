@@ -1,2 +1,2 @@
-# websocket_testing
-Contains wrapped web-socket testing API
+# Websocket Testing
+Contains enhanced web-socket testing API
